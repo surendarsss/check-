@@ -10,7 +10,7 @@ Short one-line description of your project (e.g., “An intelligent Q&A system o
 
 <div align="center">
   <iframe 
-    src="[https://www.loom.com/embed/YOUR_VIDEO_ID](https://www.loom.com/share/5e84adee5422453d887e9a2b6de38731)" 
+    src="https://www.loom.com/share/5e84adee5422453d887e9a2b6de38731" 
     frameborder="0" 
     webkitallowfullscreen 
     mozallowfullscreen 
