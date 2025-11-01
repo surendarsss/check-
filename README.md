@@ -6,8 +6,9 @@ Short one-line description of your project (e.g., “An intelligent Q&A system o
 
 ## 🎥 Demo (Loom Video)
 
-**Watch the 2-minute demo here:**  
-👉 [Watch the Loom video](https://www.loom.com/share/5e84adee5422453d887e9a2b6de38731)
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/YOUR_VIDEO_ID-with-play.png)](https://www.loom.com/share/YOUR_VIDEO_ID)
+
 
 > Optional — Embed the Loom video directly (if supported by the platform):
 
