@@ -6,12 +6,22 @@ Short one-line description of your project (e.g., “An intelligent Q&A system o
 
 ## 🎥 Demo (Loom Video)
 
+### ▶️ Watch it directly below
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/YOUR_VIDEO_ID-with-play.png)](https://www.loom.com/share/YOUR_VIDEO_ID)
+<div align="center">
+  <iframe 
+    src="[https://www.loom.com/embed/YOUR_VIDEO_ID](https://www.loom.com/share/5e84adee5422453d887e9a2b6de38731)" 
+    frameborder="0" 
+    webkitallowfullscreen 
+    mozallowfullscreen 
+    allowfullscreen 
+    style="width: 80%; height: 400px; border-radius: 12px;">
+  </iframe>
+</div>
 
+---
 
-> Optional — Embed the Loom video directly (if supported by the platform):
+## 🧠 Project Overview
 
-```html
-<!-- Replace the URL below with your Loom embed link -->
-<iframe src="https://www.loom.com/embed/YOUR_VIDEO_ID" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+This project demonstrates an intelligent Q&A system built over open government datasets.  
+It uses **LLM-based retrieval**, **FAISS vector search**, and a **Streamlit/Gradio** interface to make data queries easy and accessible.
